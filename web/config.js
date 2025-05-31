@@ -1,6 +1,6 @@
 // config.js
 const API_CONFIG = {
-    BASE_URL: '/api/v1',
+    BASE_URL: 'https://api.wwlww.org/v1',
     ENDPOINTS: {
         SEARCH: '/avcode',
         COLLECTIONS: '/hacg',
